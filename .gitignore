@@ -2,6 +2,7 @@
 
 Data_Processed/*
 !Data_Processed/UMI
+!Data_Processed/VIJIAYAN
 
 Data_Raw/AR/*
 !Data_Raw/AR/example
